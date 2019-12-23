@@ -1,0 +1,20 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "gulp webserver"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lazarieved/todo.git"
+  },
+  "private": true,
+  "author": "Ed",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-webserver": "^0.9.1"
+  }
+}
